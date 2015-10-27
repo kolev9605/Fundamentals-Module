@@ -1,0 +1,6 @@
+C# is programming language that uses .NET Framework and its libraries.
+
+.NET is not just the librariy but also a runtime for executing applications (CLR). .NET Framework is also a common execution engine for many programming languages such as Visual basic, C#, Managed C++ and others.
+
+
+

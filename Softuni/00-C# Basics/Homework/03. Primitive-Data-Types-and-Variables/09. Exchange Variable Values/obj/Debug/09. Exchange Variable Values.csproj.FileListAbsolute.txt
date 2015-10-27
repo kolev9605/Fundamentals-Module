@@ -1,0 +1,5 @@
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.pdb
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.pdb

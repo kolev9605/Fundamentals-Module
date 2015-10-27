@@ -1,0 +1,12 @@
+D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\08. NightLife\bin\Debug\_08.NightLife.exe.config
+D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\08. NightLife\bin\Debug\_08.NightLife.exe
+D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\08. NightLife\bin\Debug\_08.NightLife.pdb
+D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\08. NightLife\obj\Debug\08. NightLife.csprojResolveAssemblyReference.cache
+D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\08. NightLife\obj\Debug\_08.NightLife.exe
+D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\08. NightLife\obj\Debug\_08.NightLife.pdb
+D:\Projects\Softuni\Advanced C#\00. Homeworks\Homework-MultidimensionalArraysSetsDictionaries\08. NightLife\bin\Debug\_08.NightLife.exe.config
+D:\Projects\Softuni\Advanced C#\00. Homeworks\Homework-MultidimensionalArraysSetsDictionaries\08. NightLife\obj\Debug\_08.NightLife.exe
+D:\Projects\Softuni\Advanced C#\00. Homeworks\Homework-MultidimensionalArraysSetsDictionaries\08. NightLife\obj\Debug\_08.NightLife.pdb
+D:\Projects\Softuni\Advanced C#\00. Homeworks\Homework-MultidimensionalArraysSetsDictionaries\08. NightLife\obj\Debug\08. NightLife.csprojResolveAssemblyReference.cache
+D:\Projects\Softuni\Advanced C#\00. Homeworks\Homework-MultidimensionalArraysSetsDictionaries\08. NightLife\bin\Debug\_08.NightLife.exe
+D:\Projects\Softuni\Advanced C#\00. Homeworks\Homework-MultidimensionalArraysSetsDictionaries\08. NightLife\bin\Debug\_08.NightLife.pdb

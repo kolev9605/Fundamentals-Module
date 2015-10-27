@@ -1,0 +1,5 @@
+D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\16. Bit Exchange Advanced\bin\Debug\_16.Bit_Exchange_Advanced.exe.config
+D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\16. Bit Exchange Advanced\bin\Debug\_16.Bit_Exchange_Advanced.exe
+D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\16. Bit Exchange Advanced\bin\Debug\_16.Bit_Exchange_Advanced.pdb
+D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\16. Bit Exchange Advanced\obj\Debug\_16.Bit_Exchange_Advanced.exe
+D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\16. Bit Exchange Advanced\obj\Debug\_16.Bit_Exchange_Advanced.pdb

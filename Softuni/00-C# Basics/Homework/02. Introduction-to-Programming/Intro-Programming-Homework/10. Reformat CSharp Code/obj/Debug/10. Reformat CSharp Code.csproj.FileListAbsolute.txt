@@ -1,0 +1,5 @@
+D:\Projects\Visual Studio Projects\Intro-Programming-Homework\10. Reformat CSharp Code\bin\Debug\_10.Reformat_CSharp_Code.exe.config
+D:\Projects\Visual Studio Projects\Intro-Programming-Homework\10. Reformat CSharp Code\bin\Debug\_10.Reformat_CSharp_Code.exe
+D:\Projects\Visual Studio Projects\Intro-Programming-Homework\10. Reformat CSharp Code\bin\Debug\_10.Reformat_CSharp_Code.pdb
+D:\Projects\Visual Studio Projects\Intro-Programming-Homework\10. Reformat CSharp Code\obj\Debug\_10.Reformat_CSharp_Code.exe
+D:\Projects\Visual Studio Projects\Intro-Programming-Homework\10. Reformat CSharp Code\obj\Debug\_10.Reformat_CSharp_Code.pdb

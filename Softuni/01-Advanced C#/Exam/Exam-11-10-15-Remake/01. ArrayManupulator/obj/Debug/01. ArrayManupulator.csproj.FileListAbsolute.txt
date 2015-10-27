@@ -1,0 +1,6 @@
+D:\Projects\Softuni\Advanced C#\Exam\Exam-11-10-15-Remake\01. ArrayManupulator\bin\Debug\_01.ArrayManupulator.exe.config
+D:\Projects\Softuni\Advanced C#\Exam\Exam-11-10-15-Remake\01. ArrayManupulator\obj\Debug\01. ArrayManupulator.csprojResolveAssemblyReference.cache
+D:\Projects\Softuni\Advanced C#\Exam\Exam-11-10-15-Remake\01. ArrayManupulator\bin\Debug\_01.ArrayManupulator.exe
+D:\Projects\Softuni\Advanced C#\Exam\Exam-11-10-15-Remake\01. ArrayManupulator\bin\Debug\_01.ArrayManupulator.pdb
+D:\Projects\Softuni\Advanced C#\Exam\Exam-11-10-15-Remake\01. ArrayManupulator\obj\Debug\_01.ArrayManupulator.exe
+D:\Projects\Softuni\Advanced C#\Exam\Exam-11-10-15-Remake\01. ArrayManupulator\obj\Debug\_01.ArrayManupulator.pdb

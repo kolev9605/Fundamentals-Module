@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe.config
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.pdb
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\08. Isosceles Triangle\obj\Debug\08. Isosceles Triangle.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\08. Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\08. Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.pdb

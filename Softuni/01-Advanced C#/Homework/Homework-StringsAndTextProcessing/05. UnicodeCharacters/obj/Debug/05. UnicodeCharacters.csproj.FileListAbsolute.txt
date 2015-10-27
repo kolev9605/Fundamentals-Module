@@ -1,0 +1,5 @@
+D:\Projects\Softuni\Advanced C#\Homework-StringsAndTextProcessing\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.exe.config
+D:\Projects\Softuni\Advanced C#\Homework-StringsAndTextProcessing\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.exe
+D:\Projects\Softuni\Advanced C#\Homework-StringsAndTextProcessing\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.pdb
+D:\Projects\Softuni\Advanced C#\Homework-StringsAndTextProcessing\05. UnicodeCharacters\obj\Debug\_05.UnicodeCharacters.exe
+D:\Projects\Softuni\Advanced C#\Homework-StringsAndTextProcessing\05. UnicodeCharacters\obj\Debug\_05.UnicodeCharacters.pdb

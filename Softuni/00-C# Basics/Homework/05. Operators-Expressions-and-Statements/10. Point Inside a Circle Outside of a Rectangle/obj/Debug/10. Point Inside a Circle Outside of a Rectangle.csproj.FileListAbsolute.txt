@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\10. Point Inside a Circle Outside of a Rectangle\bin\Debug\_10.Point_Inside_a_Circle_Outside_of_a_Rectangle.exe.config
+D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\10. Point Inside a Circle Outside of a Rectangle\bin\Debug\_10.Point_Inside_a_Circle_Outside_of_a_Rectangle.exe
+D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\10. Point Inside a Circle Outside of a Rectangle\bin\Debug\_10.Point_Inside_a_Circle_Outside_of_a_Rectangle.pdb
+D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\10. Point Inside a Circle Outside of a Rectangle\obj\Debug\10. Point Inside a Circle Outside of a Rectangle.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\10. Point Inside a Circle Outside of a Rectangle\obj\Debug\_10.Point_Inside_a_Circle_Outside_of_a_Rectangle.exe
+D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\10. Point Inside a Circle Outside of a Rectangle\obj\Debug\_10.Point_Inside_a_Circle_Outside_of_a_Rectangle.pdb

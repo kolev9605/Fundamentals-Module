@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio Projects\6. Conditional-Statements\Problem 10. Beer Time\bin\Debug\Problem_10.Beer_Time.exe.config
+D:\Projects\Visual Studio Projects\6. Conditional-Statements\Problem 10. Beer Time\bin\Debug\Problem_10.Beer_Time.exe
+D:\Projects\Visual Studio Projects\6. Conditional-Statements\Problem 10. Beer Time\bin\Debug\Problem_10.Beer_Time.pdb
+D:\Projects\Visual Studio Projects\6. Conditional-Statements\Problem 10. Beer Time\obj\Debug\Problem 10. Beer Time.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio Projects\6. Conditional-Statements\Problem 10. Beer Time\obj\Debug\Problem_10.Beer_Time.exe
+D:\Projects\Visual Studio Projects\6. Conditional-Statements\Problem 10. Beer Time\obj\Debug\Problem_10.Beer_Time.pdb

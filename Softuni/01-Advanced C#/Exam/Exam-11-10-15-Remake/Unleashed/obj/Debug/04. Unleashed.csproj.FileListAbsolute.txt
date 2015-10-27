@@ -1,0 +1,6 @@
+D:\Projects\Softuni\Advanced C#\Exam\Exam-11-10-15-Remake\Unleashed\bin\Debug\Unleashed.exe.config
+D:\Projects\Softuni\Advanced C#\Exam\Exam-11-10-15-Remake\Unleashed\bin\Debug\Unleashed.exe
+D:\Projects\Softuni\Advanced C#\Exam\Exam-11-10-15-Remake\Unleashed\bin\Debug\Unleashed.pdb
+D:\Projects\Softuni\Advanced C#\Exam\Exam-11-10-15-Remake\Unleashed\obj\Debug\Unleashed.exe
+D:\Projects\Softuni\Advanced C#\Exam\Exam-11-10-15-Remake\Unleashed\obj\Debug\Unleashed.pdb
+D:\Projects\Softuni\Advanced C#\Exam\Exam-11-10-15-Remake\Unleashed\obj\Debug\04. Unleashed.csprojResolveAssemblyReference.cache

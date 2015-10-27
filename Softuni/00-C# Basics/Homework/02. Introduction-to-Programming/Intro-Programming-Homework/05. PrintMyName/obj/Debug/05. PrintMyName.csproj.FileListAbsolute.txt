@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio Projects\Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe.config
+D:\Projects\Visual Studio Projects\Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe
+D:\Projects\Visual Studio Projects\Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.pdb
+D:\Projects\Visual Studio Projects\Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.exe
+D:\Projects\Visual Studio Projects\Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.pdb
+D:\Projects\Softuni\Homework\02. Introduction-to-Programming\Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe.config
+D:\Projects\Softuni\Homework\02. Introduction-to-Programming\Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.exe
+D:\Projects\Softuni\Homework\02. Introduction-to-Programming\Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.pdb
+D:\Projects\Visual Studio Projects\02. Introduction-to-Programming\Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe.config
+D:\Projects\Visual Studio Projects\02. Introduction-to-Programming\Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.exe
+D:\Projects\Visual Studio Projects\02. Introduction-to-Programming\Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.pdb

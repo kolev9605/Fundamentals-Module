@@ -1,0 +1,12 @@
+D:\Projects\Softuni\01.AdvancedCSharp-Homework\02. Sort Array of Numbers Using Selection Sort\bin\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe.config
+D:\Projects\Softuni\01.AdvancedCSharp-Homework\02. Sort Array of Numbers Using Selection Sort\bin\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe
+D:\Projects\Softuni\01.AdvancedCSharp-Homework\02. Sort Array of Numbers Using Selection Sort\bin\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.pdb
+D:\Projects\Softuni\01.AdvancedCSharp-Homework\02. Sort Array of Numbers Using Selection Sort\obj\Debug\02. SortArrayOfNumbersUsingSelectionSort.csprojResolveAssemblyReference.cache
+D:\Projects\Softuni\01.AdvancedCSharp-Homework\02. Sort Array of Numbers Using Selection Sort\obj\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe
+D:\Projects\Softuni\01.AdvancedCSharp-Homework\02. Sort Array of Numbers Using Selection Sort\obj\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.pdb
+D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\02. Sort Array of Numbers Using Selection Sort\bin\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe.config
+D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\02. Sort Array of Numbers Using Selection Sort\obj\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe
+D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\02. Sort Array of Numbers Using Selection Sort\obj\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.pdb
+D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\02. Sort Array of Numbers Using Selection Sort\bin\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe.config
+D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\02. Sort Array of Numbers Using Selection Sort\obj\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe
+D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\02. Sort Array of Numbers Using Selection Sort\obj\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.pdb

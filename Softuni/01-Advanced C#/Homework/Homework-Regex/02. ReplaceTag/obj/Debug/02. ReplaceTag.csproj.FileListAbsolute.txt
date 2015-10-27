@@ -1,0 +1,6 @@
+D:\Projects\Softuni\Advanced C#\Homework-Regex\02. ReplaceTag\bin\Debug\_02.ReplaceTag.exe.config
+D:\Projects\Softuni\Advanced C#\Homework-Regex\02. ReplaceTag\bin\Debug\_02.ReplaceTag.exe
+D:\Projects\Softuni\Advanced C#\Homework-Regex\02. ReplaceTag\bin\Debug\_02.ReplaceTag.pdb
+D:\Projects\Softuni\Advanced C#\Homework-Regex\02. ReplaceTag\obj\Debug\02. ReplaceTag.csprojResolveAssemblyReference.cache
+D:\Projects\Softuni\Advanced C#\Homework-Regex\02. ReplaceTag\obj\Debug\_02.ReplaceTag.exe
+D:\Projects\Softuni\Advanced C#\Homework-Regex\02. ReplaceTag\obj\Debug\_02.ReplaceTag.pdb

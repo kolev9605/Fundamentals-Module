@@ -1,0 +1,1 @@
+D:\Projects\Softuni\Advanced C#\Homework-Regex\04. ExtractEmails\bin\Debug\_04.ExtractEmails.exe.config

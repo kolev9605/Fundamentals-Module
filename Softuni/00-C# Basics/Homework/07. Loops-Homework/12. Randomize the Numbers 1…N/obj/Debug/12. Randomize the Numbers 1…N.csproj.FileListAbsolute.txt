@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio Projects\07. Loops-Homework\12. Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.exe.config
+D:\Projects\Visual Studio Projects\07. Loops-Homework\12. Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.exe
+D:\Projects\Visual Studio Projects\07. Loops-Homework\12. Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.pdb
+D:\Projects\Visual Studio Projects\07. Loops-Homework\12. Randomize the Numbers 1…N\obj\Debug\12. Randomize the Numbers 1…N.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio Projects\07. Loops-Homework\12. Randomize the Numbers 1…N\obj\Debug\_12.Randomize_the_Numbers_1_N.exe
+D:\Projects\Visual Studio Projects\07. Loops-Homework\12. Randomize the Numbers 1…N\obj\Debug\_12.Randomize_the_Numbers_1_N.pdb

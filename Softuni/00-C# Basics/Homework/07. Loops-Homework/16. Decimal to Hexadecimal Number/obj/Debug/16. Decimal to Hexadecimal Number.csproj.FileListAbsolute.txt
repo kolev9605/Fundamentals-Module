@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio Projects\07. Loops-Homework\16. Decimal to Hexadecimal Number\bin\Debug\_16.Decimal_to_Hexadecimal_Number.exe.config
+D:\Projects\Visual Studio Projects\07. Loops-Homework\16. Decimal to Hexadecimal Number\bin\Debug\_16.Decimal_to_Hexadecimal_Number.exe
+D:\Projects\Visual Studio Projects\07. Loops-Homework\16. Decimal to Hexadecimal Number\bin\Debug\_16.Decimal_to_Hexadecimal_Number.pdb
+D:\Projects\Visual Studio Projects\07. Loops-Homework\16. Decimal to Hexadecimal Number\obj\Debug\16. Decimal to Hexadecimal Number.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio Projects\07. Loops-Homework\16. Decimal to Hexadecimal Number\obj\Debug\_16.Decimal_to_Hexadecimal_Number.exe
+D:\Projects\Visual Studio Projects\07. Loops-Homework\16. Decimal to Hexadecimal Number\obj\Debug\_16.Decimal_to_Hexadecimal_Number.pdb

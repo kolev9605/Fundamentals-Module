@@ -1,0 +1,5 @@
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

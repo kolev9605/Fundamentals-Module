@@ -1,0 +1,1 @@
+D:\Projects\Softuni\Advanced C#\Homework-Regex\04. SetntenceExtractor\bin\Debug\_04.SetntenceExtractor.exe.config

@@ -1,0 +1,5 @@
+D:\Projects\Visual Studio Projects\04. Console-Input-Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe.config
+D:\Projects\Visual Studio Projects\04. Console-Input-Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe
+D:\Projects\Visual Studio Projects\04. Console-Input-Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.pdb
+D:\Projects\Visual Studio Projects\04. Console-Input-Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.exe
+D:\Projects\Visual Studio Projects\04. Console-Input-Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.pdb

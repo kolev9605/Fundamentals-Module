@@ -1,0 +1,12 @@
+D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\06. SubsetSums\bin\Debug\_06.SubsetSums.exe.config
+D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\06. SubsetSums\bin\Debug\_06.SubsetSums.exe
+D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\06. SubsetSums\bin\Debug\_06.SubsetSums.pdb
+D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\06. SubsetSums\obj\Debug\06. SubsetSums.csprojResolveAssemblyReference.cache
+D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\06. SubsetSums\obj\Debug\_06.SubsetSums.exe
+D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\06. SubsetSums\obj\Debug\_06.SubsetSums.pdb
+D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\06. SubsetSums\bin\Debug\_06.SubsetSums.exe.config
+D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\06. SubsetSums\obj\Debug\_06.SubsetSums.exe
+D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\06. SubsetSums\obj\Debug\_06.SubsetSums.pdb
+D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\06. SubsetSums\bin\Debug\_06.SubsetSums.exe
+D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\06. SubsetSums\bin\Debug\_06.SubsetSums.pdb
+D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\06. SubsetSums\obj\Debug\06. SubsetSums.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe.config
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.pdb
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.pdb

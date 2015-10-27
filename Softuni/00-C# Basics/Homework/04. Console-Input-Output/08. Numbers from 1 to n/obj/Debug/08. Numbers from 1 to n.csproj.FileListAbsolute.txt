@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio Projects\04. Console-Input-Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe.config
+D:\Projects\Visual Studio Projects\04. Console-Input-Output\08. Numbers from 1 to n\obj\Debug\08. Numbers from 1 to n.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio Projects\04. Console-Input-Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe
+D:\Projects\Visual Studio Projects\04. Console-Input-Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.pdb
+D:\Projects\Visual Studio Projects\04. Console-Input-Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.exe
+D:\Projects\Visual Studio Projects\04. Console-Input-Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.pdb

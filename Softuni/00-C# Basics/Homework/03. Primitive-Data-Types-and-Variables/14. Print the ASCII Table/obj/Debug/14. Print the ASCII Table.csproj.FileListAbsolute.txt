@@ -1,0 +1,5 @@
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.pdb

@@ -1,0 +1,12 @@
+D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\07. Phonebook\bin\Debug\_07.Phonebook.exe.config
+D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\07. Phonebook\bin\Debug\_07.Phonebook.exe
+D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\07. Phonebook\bin\Debug\_07.Phonebook.pdb
+D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\07. Phonebook\obj\Debug\07. Phonebook.csprojResolveAssemblyReference.cache
+D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\07. Phonebook\obj\Debug\_07.Phonebook.exe
+D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\07. Phonebook\obj\Debug\_07.Phonebook.pdb
+D:\Projects\Softuni\Advanced C#\00. Homeworks\Homework-MultidimensionalArraysSetsDictionaries\07. Phonebook\bin\Debug\_07.Phonebook.exe.config
+D:\Projects\Softuni\Advanced C#\00. Homeworks\Homework-MultidimensionalArraysSetsDictionaries\07. Phonebook\obj\Debug\_07.Phonebook.exe
+D:\Projects\Softuni\Advanced C#\00. Homeworks\Homework-MultidimensionalArraysSetsDictionaries\07. Phonebook\obj\Debug\_07.Phonebook.pdb
+D:\Projects\Softuni\Advanced C#\00. Homeworks\Homework-MultidimensionalArraysSetsDictionaries\07. Phonebook\bin\Debug\_07.Phonebook.exe
+D:\Projects\Softuni\Advanced C#\00. Homeworks\Homework-MultidimensionalArraysSetsDictionaries\07. Phonebook\bin\Debug\_07.Phonebook.pdb
+D:\Projects\Softuni\Advanced C#\00. Homeworks\Homework-MultidimensionalArraysSetsDictionaries\07. Phonebook\obj\Debug\07. Phonebook.csprojResolveAssemblyReference.cache

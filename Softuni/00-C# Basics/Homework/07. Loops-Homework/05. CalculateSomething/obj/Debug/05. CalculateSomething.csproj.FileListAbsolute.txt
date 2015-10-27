@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio Projects\07. Loops-Homework\05. CalculateSomething\bin\Debug\_05.CalculateSomething.exe.config
+D:\Projects\Visual Studio Projects\07. Loops-Homework\05. CalculateSomething\bin\Debug\_05.CalculateSomething.exe
+D:\Projects\Visual Studio Projects\07. Loops-Homework\05. CalculateSomething\bin\Debug\_05.CalculateSomething.pdb
+D:\Projects\Visual Studio Projects\07. Loops-Homework\05. CalculateSomething\obj\Debug\05. CalculateSomething.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio Projects\07. Loops-Homework\05. CalculateSomething\obj\Debug\_05.CalculateSomething.exe
+D:\Projects\Visual Studio Projects\07. Loops-Homework\05. CalculateSomething\obj\Debug\_05.CalculateSomething.pdb

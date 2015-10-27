@@ -1,0 +1,5 @@
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe.config
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.pdb
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.pdb

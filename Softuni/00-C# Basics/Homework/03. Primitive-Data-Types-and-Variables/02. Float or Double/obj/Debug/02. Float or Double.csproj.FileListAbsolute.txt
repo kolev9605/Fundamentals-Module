@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\02. Float or Double\bin\Debug\_02.Float_or_Double.exe.config
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\02. Float or Double\bin\Debug\_02.Float_or_Double.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\02. Float or Double\bin\Debug\_02.Float_or_Double.pdb
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\02. Float or Double\obj\Debug\02. Float or Double.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\02. Float or Double\obj\Debug\_02.Float_or_Double.exe
+D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\02. Float or Double\obj\Debug\_02.Float_or_Double.pdb

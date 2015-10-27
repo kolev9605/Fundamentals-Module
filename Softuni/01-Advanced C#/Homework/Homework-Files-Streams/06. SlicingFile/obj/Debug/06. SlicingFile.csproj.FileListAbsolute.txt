@@ -1,0 +1,1 @@
+D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\06. SlicingFile\bin\Debug\_06.SlicingFile.exe.config
