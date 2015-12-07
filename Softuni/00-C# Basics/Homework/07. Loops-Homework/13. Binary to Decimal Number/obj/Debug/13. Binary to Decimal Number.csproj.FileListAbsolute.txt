@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\07. Loops-Homework\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.exe.config
-D:\Projects\Visual Studio Projects\07. Loops-Homework\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.exe
-D:\Projects\Visual Studio Projects\07. Loops-Homework\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.pdb
-D:\Projects\Visual Studio Projects\07. Loops-Homework\13. Binary to Decimal Number\obj\Debug\_13.Binary_to_Decimal_Number.exe
-D:\Projects\Visual Studio Projects\07. Loops-Homework\13. Binary to Decimal Number\obj\Debug\_13.Binary_to_Decimal_Number.pdb

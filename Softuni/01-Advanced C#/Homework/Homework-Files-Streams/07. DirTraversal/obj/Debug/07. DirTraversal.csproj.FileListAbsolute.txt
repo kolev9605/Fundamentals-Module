@@ -1,1 +1,0 @@
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\07. DirTraversal\bin\Debug\_07.DirTraversal.exe.config

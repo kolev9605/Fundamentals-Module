@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\6. Conditional-Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe.config
-D:\Projects\Visual Studio Projects\6. Conditional-Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe
-D:\Projects\Visual Studio Projects\6. Conditional-Statements\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.pdb
-D:\Projects\Visual Studio Projects\6. Conditional-Statements\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.exe
-D:\Projects\Visual Studio Projects\6. Conditional-Statements\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.pdb

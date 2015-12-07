@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\07. Loops-Homework\11. Random Numbers in Given Range\bin\Debug\_11.Random_Numbers_in_Given_Range.exe.config
-D:\Projects\Visual Studio Projects\07. Loops-Homework\11. Random Numbers in Given Range\bin\Debug\_11.Random_Numbers_in_Given_Range.exe
-D:\Projects\Visual Studio Projects\07. Loops-Homework\11. Random Numbers in Given Range\bin\Debug\_11.Random_Numbers_in_Given_Range.pdb
-D:\Projects\Visual Studio Projects\07. Loops-Homework\11. Random Numbers in Given Range\obj\Debug\_11.Random_Numbers_in_Given_Range.exe
-D:\Projects\Visual Studio Projects\07. Loops-Homework\11. Random Numbers in Given Range\obj\Debug\_11.Random_Numbers_in_Given_Range.pdb

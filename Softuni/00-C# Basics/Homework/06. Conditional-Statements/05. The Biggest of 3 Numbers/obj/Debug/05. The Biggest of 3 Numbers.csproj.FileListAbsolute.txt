@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\6. Conditional-Statements\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe.config
-D:\Projects\Visual Studio Projects\6. Conditional-Statements\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe
-D:\Projects\Visual Studio Projects\6. Conditional-Statements\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.pdb
-D:\Projects\Visual Studio Projects\6. Conditional-Statements\05. The Biggest of 3 Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.exe
-D:\Projects\Visual Studio Projects\6. Conditional-Statements\05. The Biggest of 3 Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.pdb

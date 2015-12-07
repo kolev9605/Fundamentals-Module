@@ -1,1 +1,0 @@
-D:\Projects\Visual Studio Projects\08. CSharp-Advanced-Topics-Homework\Problem09\bin\Debug\Problem09.exe.config

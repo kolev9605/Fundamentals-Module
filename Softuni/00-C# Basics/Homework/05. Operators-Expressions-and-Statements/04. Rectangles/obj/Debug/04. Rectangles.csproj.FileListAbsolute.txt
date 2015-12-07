@@ -1,6 +1,0 @@
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\04. Rectangles\bin\Debug\_04.Rectangles.exe.config
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\04. Rectangles\bin\Debug\_04.Rectangles.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\04. Rectangles\bin\Debug\_04.Rectangles.pdb
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\04. Rectangles\obj\Debug\04. Rectangles.csprojResolveAssemblyReference.cache
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\04. Rectangles\obj\Debug\_04.Rectangles.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\04. Rectangles\obj\Debug\_04.Rectangles.pdb

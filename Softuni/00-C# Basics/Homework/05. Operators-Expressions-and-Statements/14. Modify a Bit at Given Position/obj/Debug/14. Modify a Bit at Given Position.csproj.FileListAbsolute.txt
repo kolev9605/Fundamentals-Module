@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\14. Modify a Bit at Given Position\bin\Debug\_14.Modify_a_Bit_at_Given_Position.exe.config
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\14. Modify a Bit at Given Position\bin\Debug\_14.Modify_a_Bit_at_Given_Position.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\14. Modify a Bit at Given Position\bin\Debug\_14.Modify_a_Bit_at_Given_Position.pdb
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\14. Modify a Bit at Given Position\obj\Debug\_14.Modify_a_Bit_at_Given_Position.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\14. Modify a Bit at Given Position\obj\Debug\_14.Modify_a_Bit_at_Given_Position.pdb

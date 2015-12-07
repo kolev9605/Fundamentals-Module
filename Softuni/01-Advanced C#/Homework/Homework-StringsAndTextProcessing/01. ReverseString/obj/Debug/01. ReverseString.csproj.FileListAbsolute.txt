@@ -1,6 +1,0 @@
-D:\Projects\Softuni\Advanced C#\Homework-StringsAndTextProcessing\01. ReverseString\bin\Debug\_01.ReverseString.exe.config
-D:\Projects\Softuni\Advanced C#\Homework-StringsAndTextProcessing\01. ReverseString\obj\Debug\01. ReverseString.csprojResolveAssemblyReference.cache
-D:\Projects\Softuni\Advanced C#\Homework-StringsAndTextProcessing\01. ReverseString\bin\Debug\_01.ReverseString.exe
-D:\Projects\Softuni\Advanced C#\Homework-StringsAndTextProcessing\01. ReverseString\bin\Debug\_01.ReverseString.pdb
-D:\Projects\Softuni\Advanced C#\Homework-StringsAndTextProcessing\01. ReverseString\obj\Debug\_01.ReverseString.exe
-D:\Projects\Softuni\Advanced C#\Homework-StringsAndTextProcessing\01. ReverseString\obj\Debug\_01.ReverseString.pdb

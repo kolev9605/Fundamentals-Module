@@ -1,6 +1,0 @@
-D:\Projects\Visual Studio Projects\04. Console-Input-Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe.config
-D:\Projects\Visual Studio Projects\04. Console-Input-Output\04. Number Comparer\obj\Debug\04. Number Comparer.csprojResolveAssemblyReference.cache
-D:\Projects\Visual Studio Projects\04. Console-Input-Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe
-D:\Projects\Visual Studio Projects\04. Console-Input-Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.pdb
-D:\Projects\Visual Studio Projects\04. Console-Input-Output\04. Number Comparer\obj\Debug\_04.Number_Comparer.exe
-D:\Projects\Visual Studio Projects\04. Console-Input-Output\04. Number Comparer\obj\Debug\_04.Number_Comparer.pdb

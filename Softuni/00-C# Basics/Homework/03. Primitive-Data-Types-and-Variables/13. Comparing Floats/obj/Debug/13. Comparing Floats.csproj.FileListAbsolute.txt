@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb

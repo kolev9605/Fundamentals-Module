@@ -1,8 +1,0 @@
-1. JavaScript - A language developed by Netscape used to provide dynamic and interactive content on webpages. With Javascript it is possible to communicate with HTML, create animations, create calculators, validate forms, and more. Javascript is often confused with Java, but they are two different languages.
-
-JavaScript is interpreted language which means that there is no compiler in Javascript. Interpreted languages are ran by a program (interpreter) that interacts with the computer.
-C# has compiler. Compiler transforms our code into binary which makes it faster than Javascript because our computer reads binary faster.
-
-2. C - An advanced programming language used for software application development. Originally developed by Dennis Ritchie at Bell Labs in the 1970's and designed to be a systems programming language but since then has proven itself to be able to be used for various software applications such as business programs, engineering programs, and even games. The UNIX operating system is written in C.
-
-C does not support object orriented code while C# does. Also with C you have feedom to do anything. C# has limits of what you are doing.

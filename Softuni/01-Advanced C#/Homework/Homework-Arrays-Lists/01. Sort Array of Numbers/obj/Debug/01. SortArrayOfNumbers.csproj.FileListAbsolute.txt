@@ -1,9 +1,0 @@
-D:\Projects\Softuni\01.AdvancedCSharp-Homework\01. Sort Array of Numbers\bin\Debug\_01.Sort_Array_of_Numbers.exe.config
-D:\Projects\Softuni\01.AdvancedCSharp-Homework\01. Sort Array of Numbers\obj\Debug\_01.Sort_Array_of_Numbers.exe
-D:\Projects\Softuni\01.AdvancedCSharp-Homework\01. Sort Array of Numbers\obj\Debug\_01.Sort_Array_of_Numbers.pdb
-D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\01. Sort Array of Numbers\bin\Debug\_01.Sort_Array_of_Numbers.exe.config
-D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\01. Sort Array of Numbers\obj\Debug\_01.Sort_Array_of_Numbers.exe
-D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\01. Sort Array of Numbers\obj\Debug\_01.Sort_Array_of_Numbers.pdb
-D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\01. Sort Array of Numbers\bin\Debug\_01.Sort_Array_of_Numbers.exe.config
-D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\01. Sort Array of Numbers\obj\Debug\_01.Sort_Array_of_Numbers.exe
-D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\01. Sort Array of Numbers\obj\Debug\_01.Sort_Array_of_Numbers.pdb

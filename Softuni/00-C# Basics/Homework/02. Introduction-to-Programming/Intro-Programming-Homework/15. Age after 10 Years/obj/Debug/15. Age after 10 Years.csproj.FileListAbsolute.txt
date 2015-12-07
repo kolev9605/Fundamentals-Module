@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\15. Age after 10 Years\bin\Debug\_15.Age_after_10_Years.exe.config
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\15. Age after 10 Years\bin\Debug\_15.Age_after_10_Years.exe
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\15. Age after 10 Years\bin\Debug\_15.Age_after_10_Years.pdb
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\15. Age after 10 Years\obj\Debug\_15.Age_after_10_Years.exe
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\15. Age after 10 Years\obj\Debug\_15.Age_after_10_Years.pdb

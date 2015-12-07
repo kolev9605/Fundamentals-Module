@@ -1,6 +1,0 @@
-D:\Projects\Softuni\Advanced C#\Homework-Methods\07. GenericArraySort\bin\Debug\_07.GenericArraySort.exe.config
-D:\Projects\Softuni\Advanced C#\Homework-Methods\07. GenericArraySort\obj\Debug\07. GenericArraySort.csprojResolveAssemblyReference.cache
-D:\Projects\Softuni\Advanced C#\Homework-Methods\07. GenericArraySort\bin\Debug\_07.GenericArraySort.exe
-D:\Projects\Softuni\Advanced C#\Homework-Methods\07. GenericArraySort\bin\Debug\_07.GenericArraySort.pdb
-D:\Projects\Softuni\Advanced C#\Homework-Methods\07. GenericArraySort\obj\Debug\_07.GenericArraySort.exe
-D:\Projects\Softuni\Advanced C#\Homework-Methods\07. GenericArraySort\obj\Debug\_07.GenericArraySort.pdb

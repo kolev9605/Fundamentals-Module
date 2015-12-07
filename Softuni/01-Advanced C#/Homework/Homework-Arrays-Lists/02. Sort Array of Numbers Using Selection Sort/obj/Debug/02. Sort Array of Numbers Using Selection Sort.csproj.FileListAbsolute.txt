@@ -1,1 +1,0 @@
-D:\Projects\Softuni\01.AdvancedCSharp-Homework\02. Sort Array of Numbers Using Selection Sort\bin\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe.config

@@ -1,3 +1,0 @@
-D:\Projects\Visual Studio Projects\07. Loops-Homework\6. Calculate N and K Fact\bin\Debug\_6.Calculate_N_and_K_Fact.exe.config
-D:\Projects\Visual Studio Projects\07. Loops-Homework\6. Calculate N and K Fact\obj\Debug\_6.Calculate_N_and_K_Fact.exe
-D:\Projects\Visual Studio Projects\07. Loops-Homework\6. Calculate N and K Fact\obj\Debug\_6.Calculate_N_and_K_Fact.pdb

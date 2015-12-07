@@ -1,6 +1,0 @@
-D:\Projects\Visual Studio Projects\07. Loops-Homework\07. CalculateSomethingElse\bin\Debug\_07.CalculateSomethingElse.exe.config
-D:\Projects\Visual Studio Projects\07. Loops-Homework\07. CalculateSomethingElse\bin\Debug\_07.CalculateSomethingElse.exe
-D:\Projects\Visual Studio Projects\07. Loops-Homework\07. CalculateSomethingElse\bin\Debug\_07.CalculateSomethingElse.pdb
-D:\Projects\Visual Studio Projects\07. Loops-Homework\07. CalculateSomethingElse\obj\Debug\07. CalculateSomethingElse.csprojResolveAssemblyReference.cache
-D:\Projects\Visual Studio Projects\07. Loops-Homework\07. CalculateSomethingElse\obj\Debug\_07.CalculateSomethingElse.exe
-D:\Projects\Visual Studio Projects\07. Loops-Homework\07. CalculateSomethingElse\obj\Debug\_07.CalculateSomethingElse.pdb

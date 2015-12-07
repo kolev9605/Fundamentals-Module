@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.exe.config
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.pdb
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\08. Prime Number Check\obj\Debug\_08.Prime_Number_Check.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\08. Prime Number Check\obj\Debug\_08.Prime_Number_Check.pdb

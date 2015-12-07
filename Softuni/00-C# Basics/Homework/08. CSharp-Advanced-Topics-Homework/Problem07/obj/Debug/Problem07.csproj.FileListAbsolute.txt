@@ -1,6 +1,0 @@
-D:\Projects\Visual Studio Projects\08. CSharp-Advanced-Topics-Homework\Problem07\bin\Debug\Problem07.exe.config
-D:\Projects\Visual Studio Projects\08. CSharp-Advanced-Topics-Homework\Problem07\bin\Debug\Problem07.exe
-D:\Projects\Visual Studio Projects\08. CSharp-Advanced-Topics-Homework\Problem07\bin\Debug\Problem07.pdb
-D:\Projects\Visual Studio Projects\08. CSharp-Advanced-Topics-Homework\Problem07\obj\Debug\Problem07.csprojResolveAssemblyReference.cache
-D:\Projects\Visual Studio Projects\08. CSharp-Advanced-Topics-Homework\Problem07\obj\Debug\Problem07.exe
-D:\Projects\Visual Studio Projects\08. CSharp-Advanced-Topics-Homework\Problem07\obj\Debug\Problem07.pdb

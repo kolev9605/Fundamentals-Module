@@ -1,6 +1,0 @@
-D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\06. CountSymbols\bin\Debug\_06.CountSymbols.exe.config
-D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\06. CountSymbols\bin\Debug\_06.CountSymbols.exe
-D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\06. CountSymbols\bin\Debug\_06.CountSymbols.pdb
-D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\06. CountSymbols\obj\Debug\06. CountSymbols.csprojResolveAssemblyReference.cache
-D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\06. CountSymbols\obj\Debug\_06.CountSymbols.exe
-D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\06. CountSymbols\obj\Debug\_06.CountSymbols.pdb

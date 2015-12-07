@@ -1,6 +1,0 @@
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\02. LineNumbers\bin\Debug\_02.LineNumbers.exe.config
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\02. LineNumbers\bin\Debug\_02.LineNumbers.exe
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\02. LineNumbers\bin\Debug\_02.LineNumbers.pdb
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\02. LineNumbers\obj\Debug\02. LineNumbers.csprojResolveAssemblyReference.cache
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\02. LineNumbers\obj\Debug\_02.LineNumbers.exe
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\02. LineNumbers\obj\Debug\_02.LineNumbers.pdb

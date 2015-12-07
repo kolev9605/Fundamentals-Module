@@ -1,5 +1,0 @@
-D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\01.5. FillTheMatrix\bin\Debug\_01._5.FillTheMatrix.exe.config
-D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\01.5. FillTheMatrix\bin\Debug\_01._5.FillTheMatrix.exe
-D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\01.5. FillTheMatrix\bin\Debug\_01._5.FillTheMatrix.pdb
-D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\01.5. FillTheMatrix\obj\Debug\_01._5.FillTheMatrix.exe
-D:\Projects\Softuni\Advanced C#\Homework-MultidimensionalArraysSetsDictionaries\01.5. FillTheMatrix\obj\Debug\_01._5.FillTheMatrix.pdb

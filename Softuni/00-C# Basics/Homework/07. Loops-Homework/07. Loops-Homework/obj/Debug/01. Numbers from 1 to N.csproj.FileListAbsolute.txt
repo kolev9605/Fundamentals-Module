@@ -1,6 +1,0 @@
-D:\Projects\Visual Studio Projects\07. Loops-Homework\07. Loops-Homework\bin\Debug\_07.Loops_Homework.exe.config
-D:\Projects\Visual Studio Projects\07. Loops-Homework\07. Loops-Homework\bin\Debug\_07.Loops_Homework.exe
-D:\Projects\Visual Studio Projects\07. Loops-Homework\07. Loops-Homework\bin\Debug\_07.Loops_Homework.pdb
-D:\Projects\Visual Studio Projects\07. Loops-Homework\07. Loops-Homework\obj\Debug\01. Numbers from 1 to N.csprojResolveAssemblyReference.cache
-D:\Projects\Visual Studio Projects\07. Loops-Homework\07. Loops-Homework\obj\Debug\_07.Loops_Homework.exe
-D:\Projects\Visual Studio Projects\07. Loops-Homework\07. Loops-Homework\obj\Debug\_07.Loops_Homework.pdb

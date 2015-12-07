@@ -1,6 +1,0 @@
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe.config
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.pdb
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\11. Bitwise Extract Bit 3\obj\Debug\11. Bitwise Extract Bit 3.csprojResolveAssemblyReference.cache
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\11. Bitwise Extract Bit 3\obj\Debug\_11.Bitwise_Extract_Bit_3.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\11. Bitwise Extract Bit 3\obj\Debug\_11.Bitwise_Extract_Bit_3.pdb

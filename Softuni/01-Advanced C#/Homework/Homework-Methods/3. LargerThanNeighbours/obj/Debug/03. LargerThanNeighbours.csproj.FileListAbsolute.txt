@@ -1,6 +1,0 @@
-D:\Projects\Softuni\Advanced C#\Homework-Methods\3. LargerThanNeighbours\bin\Debug\_3.LargerThanNeighbours.exe.config
-D:\Projects\Softuni\Advanced C#\Homework-Methods\3. LargerThanNeighbours\bin\Debug\_3.LargerThanNeighbours.exe
-D:\Projects\Softuni\Advanced C#\Homework-Methods\3. LargerThanNeighbours\bin\Debug\_3.LargerThanNeighbours.pdb
-D:\Projects\Softuni\Advanced C#\Homework-Methods\3. LargerThanNeighbours\obj\Debug\03. LargerThanNeighbours.csprojResolveAssemblyReference.cache
-D:\Projects\Softuni\Advanced C#\Homework-Methods\3. LargerThanNeighbours\obj\Debug\_3.LargerThanNeighbours.exe
-D:\Projects\Softuni\Advanced C#\Homework-Methods\3. LargerThanNeighbours\obj\Debug\_3.LargerThanNeighbours.pdb

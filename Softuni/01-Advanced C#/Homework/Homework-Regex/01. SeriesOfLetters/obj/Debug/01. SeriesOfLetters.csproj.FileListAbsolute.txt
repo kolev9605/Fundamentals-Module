@@ -1,6 +1,0 @@
-D:\Projects\Softuni\Advanced C#\Homework-Regex\01. SeriesOfLetters\bin\Debug\_01.SeriesOfLetters.exe.config
-D:\Projects\Softuni\Advanced C#\Homework-Regex\01. SeriesOfLetters\bin\Debug\_01.SeriesOfLetters.exe
-D:\Projects\Softuni\Advanced C#\Homework-Regex\01. SeriesOfLetters\bin\Debug\_01.SeriesOfLetters.pdb
-D:\Projects\Softuni\Advanced C#\Homework-Regex\01. SeriesOfLetters\obj\Debug\01. SeriesOfLetters.csprojResolveAssemblyReference.cache
-D:\Projects\Softuni\Advanced C#\Homework-Regex\01. SeriesOfLetters\obj\Debug\_01.SeriesOfLetters.exe
-D:\Projects\Softuni\Advanced C#\Homework-Regex\01. SeriesOfLetters\obj\Debug\_01.SeriesOfLetters.pdb

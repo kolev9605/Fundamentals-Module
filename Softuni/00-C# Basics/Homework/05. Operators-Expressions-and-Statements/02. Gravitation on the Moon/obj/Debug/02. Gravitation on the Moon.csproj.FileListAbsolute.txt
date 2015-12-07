@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\02. Gravitation on the Moon\bin\Debug\_02.Gravitation_on_the_Moon.exe.config
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\02. Gravitation on the Moon\bin\Debug\_02.Gravitation_on_the_Moon.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\02. Gravitation on the Moon\bin\Debug\_02.Gravitation_on_the_Moon.pdb
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\02. Gravitation on the Moon\obj\Debug\_02.Gravitation_on_the_Moon.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\02. Gravitation on the Moon\obj\Debug\_02.Gravitation_on_the_Moon.pdb

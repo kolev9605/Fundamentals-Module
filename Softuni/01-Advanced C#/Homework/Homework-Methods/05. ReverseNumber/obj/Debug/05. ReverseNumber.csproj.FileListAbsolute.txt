@@ -1,6 +1,0 @@
-D:\Projects\Softuni\Advanced C#\Homework-Methods\05. ReverseNumber\bin\Debug\_05.ReverseNumber.exe.config
-D:\Projects\Softuni\Advanced C#\Homework-Methods\05. ReverseNumber\bin\Debug\_05.ReverseNumber.exe
-D:\Projects\Softuni\Advanced C#\Homework-Methods\05. ReverseNumber\bin\Debug\_05.ReverseNumber.pdb
-D:\Projects\Softuni\Advanced C#\Homework-Methods\05. ReverseNumber\obj\Debug\_05.ReverseNumber.exe
-D:\Projects\Softuni\Advanced C#\Homework-Methods\05. ReverseNumber\obj\Debug\_05.ReverseNumber.pdb
-D:\Projects\Softuni\Advanced C#\Homework-Methods\05. ReverseNumber\obj\Debug\05. ReverseNumber.csprojResolveAssemblyReference.cache

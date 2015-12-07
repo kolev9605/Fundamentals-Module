@@ -1,6 +1,0 @@
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.exe.config
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.pdb
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\15. Bits Exchange\obj\Debug\15. Bits Exchange.csprojResolveAssemblyReference.cache
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\15. Bits Exchange\obj\Debug\_15.Bits_Exchange.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\15. Bits Exchange\obj\Debug\_15.Bits_Exchange.pdb

@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\11. Bank Account Data\bin\Debug\_11.Bank_Account_Data.exe.config
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\11. Bank Account Data\bin\Debug\_11.Bank_Account_Data.exe
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\11. Bank Account Data\bin\Debug\_11.Bank_Account_Data.pdb
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\11. Bank Account Data\obj\Debug\_11.Bank_Account_Data.exe
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\11. Bank Account Data\obj\Debug\_11.Bank_Account_Data.pdb

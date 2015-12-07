@@ -1,6 +1,0 @@
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\01. Declare Variables\bin\Debug\_01.Declare_Variables.exe.config
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\01. Declare Variables\bin\Debug\_01.Declare_Variables.exe
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\01. Declare Variables\bin\Debug\_01.Declare_Variables.pdb
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\01. Declare Variables\obj\Debug\01. Declare Variables.csprojResolveAssemblyReference.cache
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\01. Declare Variables\obj\Debug\_01.Declare_Variables.exe
-D:\Projects\Visual Studio Projects\03. Primitive-Data-Types-and-Variables\01. Declare Variables\obj\Debug\_01.Declare_Variables.pdb

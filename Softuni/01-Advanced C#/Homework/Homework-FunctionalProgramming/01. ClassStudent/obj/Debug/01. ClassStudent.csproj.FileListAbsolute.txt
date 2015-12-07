@@ -1,6 +1,0 @@
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-FunctionalProgramming\01. ClassStudent\bin\Debug\_01.ClassStudent.exe.config
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-FunctionalProgramming\01. ClassStudent\bin\Debug\_01.ClassStudent.exe
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-FunctionalProgramming\01. ClassStudent\bin\Debug\_01.ClassStudent.pdb
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-FunctionalProgramming\01. ClassStudent\obj\Debug\01. ClassStudent.csprojResolveAssemblyReference.cache
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-FunctionalProgramming\01. ClassStudent\obj\Debug\_01.ClassStudent.exe
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-FunctionalProgramming\01. ClassStudent\obj\Debug\_01.ClassStudent.pdb

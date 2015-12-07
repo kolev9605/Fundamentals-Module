@@ -1,9 +1,0 @@
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\14. Current Date and Time\bin\Debug\_14.Current_Date_and_Time.exe.config
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\14. Current Date and Time\bin\Debug\_14.Current_Date_and_Time.exe
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\14. Current Date and Time\bin\Debug\_14.Current_Date_and_Time.pdb
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\14. Current Date and Time\obj\Debug\14. Current Date and Time.csprojResolveAssemblyReference.cache
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\14. Current Date and Time\obj\Debug\_14.Current_Date_and_Time.exe
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\14. Current Date and Time\obj\Debug\_14.Current_Date_and_Time.pdb
-D:\Projects\Softuni\Homework\02. Introduction-to-Programming\Intro-Programming-Homework\14. Current Date and Time\bin\Debug\_14.Current_Date_and_Time.exe.config
-D:\Projects\Softuni\Homework\02. Introduction-to-Programming\Intro-Programming-Homework\14. Current Date and Time\obj\Debug\_14.Current_Date_and_Time.exe
-D:\Projects\Softuni\Homework\02. Introduction-to-Programming\Intro-Programming-Homework\14. Current Date and Time\obj\Debug\_14.Current_Date_and_Time.pdb

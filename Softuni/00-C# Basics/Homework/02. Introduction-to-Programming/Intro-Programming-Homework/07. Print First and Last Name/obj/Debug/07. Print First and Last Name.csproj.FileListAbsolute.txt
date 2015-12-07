@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\07. Print First and Last Name\bin\Debug\_07.Print_First_and_Last_Name.exe.config
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\07. Print First and Last Name\bin\Debug\_07.Print_First_and_Last_Name.exe
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\07. Print First and Last Name\bin\Debug\_07.Print_First_and_Last_Name.pdb
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\07. Print First and Last Name\obj\Debug\_07.Print_First_and_Last_Name.exe
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\07. Print First and Last Name\obj\Debug\_07.Print_First_and_Last_Name.pdb

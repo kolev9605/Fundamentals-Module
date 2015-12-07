@@ -1,6 +1,0 @@
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\05. CopyBinaryFile\bin\Debug\_05.CopyBinaryFile.exe.config
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\05. CopyBinaryFile\bin\Debug\_05.CopyBinaryFile.exe
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\05. CopyBinaryFile\bin\Debug\_05.CopyBinaryFile.pdb
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\05. CopyBinaryFile\obj\Debug\05. CopyBinaryFile.csprojResolveAssemblyReference.cache
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\05. CopyBinaryFile\obj\Debug\_05.CopyBinaryFile.exe
-D:\Projects\Softuni\Advanced C#\Homeworks\Homework-Files-Streams\05. CopyBinaryFile\obj\Debug\_05.CopyBinaryFile.pdb

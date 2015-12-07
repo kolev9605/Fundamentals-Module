@@ -1,9 +1,0 @@
-D:\Projects\Softuni\01.AdvancedCSharp-Homework\03. Categorize Numbers and Find Min Max Average\bin\Debug\_03.Categorize_Numbers_and_Find_Min_Max_Average.exe.config
-D:\Projects\Softuni\01.AdvancedCSharp-Homework\03. Categorize Numbers and Find Min Max Average\obj\Debug\_03.Categorize_Numbers_and_Find_Min_Max_Average.exe
-D:\Projects\Softuni\01.AdvancedCSharp-Homework\03. Categorize Numbers and Find Min Max Average\obj\Debug\_03.Categorize_Numbers_and_Find_Min_Max_Average.pdb
-D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\03. Categorize Numbers and Find Min Max Average\bin\Debug\_03.Categorize_Numbers_and_Find_Min_Max_Average.exe.config
-D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\03. Categorize Numbers and Find Min Max Average\obj\Debug\_03.Categorize_Numbers_and_Find_Min_Max_Average.exe
-D:\Projects\Softuni\Advanced C#\01.AdvancedCSharp-Homework\03. Categorize Numbers and Find Min Max Average\obj\Debug\_03.Categorize_Numbers_and_Find_Min_Max_Average.pdb
-D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\03. Categorize Numbers and Find Min Max Average\bin\Debug\_03.Categorize_Numbers_and_Find_Min_Max_Average.exe.config
-D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\03. Categorize Numbers and Find Min Max Average\obj\Debug\_03.Categorize_Numbers_and_Find_Min_Max_Average.exe
-D:\Projects\Softuni\Advanced C#\Homework-Arrays-Lists\03. Categorize Numbers and Find Min Max Average\obj\Debug\_03.Categorize_Numbers_and_Find_Min_Max_Average.pdb

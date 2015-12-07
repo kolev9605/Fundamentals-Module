@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
-D:\Projects\Visual Studio Projects\05. Operators-Expressions-and-Statements\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

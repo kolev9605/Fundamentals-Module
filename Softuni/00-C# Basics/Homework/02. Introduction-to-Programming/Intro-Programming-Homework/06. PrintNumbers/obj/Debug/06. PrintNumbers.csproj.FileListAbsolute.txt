@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\06. PrintNumbers\bin\Debug\_06.PrintNumbers.exe.config
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\06. PrintNumbers\bin\Debug\_06.PrintNumbers.exe
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\06. PrintNumbers\bin\Debug\_06.PrintNumbers.pdb
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\06. PrintNumbers\obj\Debug\_06.PrintNumbers.exe
-D:\Projects\Visual Studio Projects\Intro-Programming-Homework\06. PrintNumbers\obj\Debug\_06.PrintNumbers.pdb
