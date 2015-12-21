@@ -81,8 +81,9 @@ namespace Empires.Core
             builder.AppendLine("Treasury:");
             foreach (var resource in this.data.Resources)
             {
+                var resourceName = resource.Key;
                 int quantity = resource.Value;
-                builder.AppendFormat("--{0}: {1}\n", resource.Key, quantity);
+                builder.AppendFormat("--{0}: {1}\n", resourceName, quantity);
             }
             builder.AppendLine("Buildings:");
             if (this.data.Buildings.Any())
@@ -102,7 +103,9 @@ namespace Empires.Core
             {
                 foreach (var unit in this.data.Units)
                 {
-                    builder.AppendFormat("--{0}: {1}\n", unit.Key, unit.Value);
+                    var unitName = unit.Key;
+                    var unitValue = unit.Value;
+                    builder.AppendFormat("--{0}: {1}\n", unitName, unitValue);
                 }
             }
             else

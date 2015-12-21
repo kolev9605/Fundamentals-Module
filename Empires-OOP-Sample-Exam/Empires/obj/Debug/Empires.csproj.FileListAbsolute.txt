@@ -4,3 +4,6 @@ C:\Users\Kolev\Desktop\OOP-ExamPrep\Empires\bin\Debug\Empires.pdb
 C:\Users\Kolev\Desktop\OOP-ExamPrep\Empires\obj\Debug\Empires.csprojResolveAssemblyReference.cache
 C:\Users\Kolev\Desktop\OOP-ExamPrep\Empires\obj\Debug\Empires.exe
 C:\Users\Kolev\Desktop\OOP-ExamPrep\Empires\obj\Debug\Empires.pdb
+C:\Users\Kolev\Desktop\Github\Softuni\Empires-OOP-Sample-Exam\Empires\bin\Debug\Empires.exe.config
+C:\Users\Kolev\Desktop\Github\Softuni\Empires-OOP-Sample-Exam\Empires\obj\Debug\Empires.exe
+C:\Users\Kolev\Desktop\Github\Softuni\Empires-OOP-Sample-Exam\Empires\obj\Debug\Empires.pdb
