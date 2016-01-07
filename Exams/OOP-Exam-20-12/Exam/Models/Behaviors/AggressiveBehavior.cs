@@ -1,6 +1,5 @@
 ﻿namespace Exam.Models.Behaviors
 {
-    using Core;
     using Interface;
 
     class AggressiveBehavior : Behavior
@@ -17,12 +16,6 @@
         {
             if (!this.HasTriggered)
             {
-                if (blob.PrintEvents)
-                {
-                    this.UserInterface.WriteLine(Messeges.BehaviorToggleEvent,
-                        blob.Name,
-                        blob.Behavior.GetType().Name);
-                }
                 this.HasTriggered = true;
                 blob.Damage *= 2;
             }

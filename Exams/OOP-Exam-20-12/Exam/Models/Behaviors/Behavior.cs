@@ -1,6 +1,7 @@
 ﻿namespace Exam.Models.Behaviors
 {
     using Interface;
+
     public abstract class Behavior : IBehavior
     {
         protected Behavior(string name, IUserInterface userInterface)

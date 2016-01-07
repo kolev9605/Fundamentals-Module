@@ -27,28 +27,10 @@
             this.InitialDamage = damage;
             this.initialHealth = health;
             this.IsAlive = true;
-            this.PrintEvents = false;
             this.userInterface = userInterface;
-        }
-
-        public Blob(int damage, int health, string name, IBehavior behavior, IAttack attackType, bool printEvents, IUserInterface userInterface)
-        {
-            this.Damage = damage;
-            this.Health = health;
-            this.Name = name;
-            this.Behavior = behavior;
-            this.AttackType = attackType;
-            this.InitialDamage = damage;
-            this.initialHealth = health;
-            this.IsAlive = true;
-            this.PrintEvents = printEvents;
-            this.userInterface = userInterface;
-
         }
 
         public bool IsAlive { get; set; }
-
-        public bool PrintEvents { get; set; }
 
         public int InitialHealth
         {
@@ -122,10 +104,6 @@
             if (this.Health <= 0)
             {
                 this.IsAlive = false;
-                if (this.PrintEvents)
-                {
-                    this.userInterface.WriteLine(Messeges.BlobKilledEvent, this.Name);
-                }
             }
         }
 
@@ -156,6 +134,7 @@
             {
                 builder.AppendFormat(Messeges.BlobFormatIfAlive, this.Health, this.Damage);
             }
+
             return builder.ToString();
         }
     }

@@ -13,8 +13,6 @@
         private readonly IBehaviorFactory behaviorFactory;
         private readonly IDatabase database;
 
-        private bool printEvents;
-
         public Engine(IUserInterface userInterface, IAttackFactory attackFactory, IBlobFactory blobFactory, IBehaviorFactory behaviorFactory, IDatabase database)
         {
             this.userInterface = userInterface;
@@ -22,7 +20,6 @@
             this.blobFactory = blobFactory;
             this.behaviorFactory = behaviorFactory;
             this.database = database;
-            this.printEvents = false;
         }
 
         public void Run()
@@ -69,17 +66,9 @@
                 case "drop":
                     Environment.Exit(0);
                     break;
-                case "report-events":
-                    ExecuteReportEventsCommand();
-                    break;
                 default:
                     throw new CommandException(Messeges.NotSupportedCommand);
             }
-        }
-
-        private void ExecuteReportEventsCommand()
-        {
-            this.printEvents = true;
         }
 
         private void ExecuteAttackCommand(string[] inputParams)
@@ -113,7 +102,7 @@
             var behavior = this.behaviorFactory.CreateBehavior(inputParams[4], this.userInterface);
             var attackType = this.attackFactory.CreateAttack(inputParams[5]);
 
-            var blob = this.blobFactory.Create(blobName, damage, health, behavior, attackType, this.printEvents, this.userInterface);
+            var blob = this.blobFactory.Create(blobName, damage, health, behavior, attackType, this.userInterface);
 
             this.database.AddBlob(blob);
         }
