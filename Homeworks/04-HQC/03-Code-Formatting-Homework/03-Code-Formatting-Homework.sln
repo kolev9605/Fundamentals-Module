@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventProject", "EventProject\EventProject.csproj", "{7AB24FCE-C65B-42D4-BCC3-E05C469DF69A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixShuffling-Unformatted", "MatrixShuffling-Unformatted\MatrixShuffling-Unformatted.csproj", "{34E0A3F7-12EA-4E2D-95F5-9E0941B781EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixShuffling", "MatrixShuffling\MatrixShuffling.csproj", "{0635941F-C662-41B2-B36B-322D9918E1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB24FCE-C65B-42D4-BCC3-E05C469DF69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB24FCE-C65B-42D4-BCC3-E05C469DF69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB24FCE-C65B-42D4-BCC3-E05C469DF69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB24FCE-C65B-42D4-BCC3-E05C469DF69A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E0A3F7-12EA-4E2D-95F5-9E0941B781EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E0A3F7-12EA-4E2D-95F5-9E0941B781EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E0A3F7-12EA-4E2D-95F5-9E0941B781EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E0A3F7-12EA-4E2D-95F5-9E0941B781EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0635941F-C662-41B2-B36B-322D9918E1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0635941F-C662-41B2-B36B-322D9918E1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0635941F-C662-41B2-B36B-322D9918E1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0635941F-C662-41B2-B36B-322D9918E1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
