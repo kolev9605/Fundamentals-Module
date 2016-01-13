@@ -15,9 +15,7 @@
         private IBehavior behavior;
         private IAttack attack;
 
-        private readonly IUserInterface userInterface;
-
-        public Blob(int damage, int health, string name, IBehavior behavior, IAttack attackType, IUserInterface userInterface)
+        public Blob(int damage, int health, string name, IBehavior behavior, IAttack attackType)
         {
             this.Damage = damage;
             this.Health = health;
@@ -27,7 +25,6 @@
             this.InitialDamage = damage;
             this.initialHealth = health;
             this.IsAlive = true;
-            this.userInterface = userInterface;
         }
 
         public bool IsAlive { get; set; }

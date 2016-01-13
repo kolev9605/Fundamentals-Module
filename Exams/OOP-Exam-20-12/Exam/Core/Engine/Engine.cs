@@ -102,7 +102,7 @@
             var behavior = this.behaviorFactory.CreateBehavior(inputParams[4], this.userInterface);
             var attackType = this.attackFactory.CreateAttack(inputParams[5]);
 
-            var blob = this.blobFactory.Create(blobName, damage, health, behavior, attackType, this.userInterface);
+            var blob = this.blobFactory.Create(blobName, damage, health, behavior, attackType);
 
             this.database.AddBlob(blob);
         }
