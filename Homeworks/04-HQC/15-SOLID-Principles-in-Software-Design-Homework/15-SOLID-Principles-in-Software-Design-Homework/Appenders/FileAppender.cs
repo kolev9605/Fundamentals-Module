@@ -31,9 +31,12 @@
 
         public override void Append(DateTime date, ReportLevel level, string messege)
         {
-            using (StreamWriter writetext = new StreamWriter(this.FilePath))
+            if (this.ReportLevel <= level)
             {
-                this.Layout.Format(date, level, messege);
+                using (StreamWriter writetext = new StreamWriter(this.FilePath, true))
+                {
+                    writetext.WriteLine(this.Layout.Format(date, level, messege));
+                }
             }
         }
     }

@@ -15,27 +15,27 @@
 
         public void Info(string msg)
         {
-            Log(ReportLevel.Info, msg);
+            this.Log(ReportLevel.Info, msg);
         }
 
         public void Warn(string msg)
         {
-            Log(ReportLevel.Warn, msg);
+            this.Log(ReportLevel.Warn, msg);
         }
 
         public void Error(string msg)
         {
-            Log(ReportLevel.Error, msg);
+            this.Log(ReportLevel.Error, msg);
         }
 
         public void Critical(string msg)
         {
-            Log(ReportLevel.Critical, msg);
+            this.Log(ReportLevel.Critical, msg);
         }
 
         public void Fatal(string msg)
         {
-            Log(ReportLevel.Fatal, msg);
+            this.Log(ReportLevel.Fatal, msg);
         }
 
         private void Log(ReportLevel level, string msg)

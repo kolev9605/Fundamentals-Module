@@ -1,5 +1,6 @@
 ﻿namespace SOLIDLogger
 {
+    using System;
     using Appenders;
     using Enums;
     using Interfaces;
@@ -11,11 +12,12 @@
         {
             //Init dependencies
             ILayout layout = new XmlLayout();
-            IAppender appender = new ConsoleAppender(layout);
-            Logger logger = new Logger(appender);
+            IAppender fileAppender = new FileAppender(layout, "file.txt");
+            IAppender consoleAppender = new ConsoleAppender(layout);
+            Logger logger = new Logger(consoleAppender);
 
             //shows every report level above ReportLevel.Warn
-            appender.ReportLevel = ReportLevel.Warn;
+            consoleAppender.ReportLevel = ReportLevel.Fatal;
 
             logger.Critical("Critical Sample Report");
             logger.Fatal("Fatal Sample Report");
