@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-PlayWithTrees", "01-Play
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-TraverseAndSaveDirectoryContentsInTree", "02-TraverseAndSaveDirectoryContentsInTree\02-TraverseAndSaveDirectoryContentsInTree.csproj", "{2B6009BC-6B21-4B49-B5F4-B06AF5F5680C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-CalculateArithmeticExpression", "03-CalculateArithmeticExpression\03-CalculateArithmeticExpression.csproj", "{1B1C8A9A-4154-4093-9AE8-12EB1A220433}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2B6009BC-6B21-4B49-B5F4-B06AF5F5680C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B6009BC-6B21-4B49-B5F4-B06AF5F5680C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B6009BC-6B21-4B49-B5F4-B06AF5F5680C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1C8A9A-4154-4093-9AE8-12EB1A220433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1C8A9A-4154-4093-9AE8-12EB1A220433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1C8A9A-4154-4093-9AE8-12EB1A220433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1C8A9A-4154-4093-9AE8-12EB1A220433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
