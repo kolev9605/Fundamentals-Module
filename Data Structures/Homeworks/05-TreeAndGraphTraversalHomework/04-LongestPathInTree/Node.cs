@@ -21,7 +21,7 @@
 
         public Node Parent { get; set; }
 
-        public long NodeSum
+        public int NodeSum
         {
             get
             {
@@ -33,7 +33,9 @@
 
                 if (this.Parent == null)
                 {
-                    this.sumOfNode = this.Children.Sum(x => x.sumOfNode) + this.Value;
+                    var rootChildren = this.Children.OrderByDescending(x => x.NodeSum).ToList();
+
+                    this.sumOfNode = this.Value + rootChildren[0].NodeSum + rootChildren[1].NodeSum;
                 }
                 else
                 {
