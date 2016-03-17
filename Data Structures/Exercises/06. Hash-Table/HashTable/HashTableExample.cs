@@ -1,4 +1,5 @@
 ﻿using System;
+using Hash_Table;
 
 class Example
 {

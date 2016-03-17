@@ -1,12 +1,15 @@
-﻿namespace AvlTreeLab
+﻿namespace _01_AvlTreeImplementation
 {
     using System;
+    using AvlTreeLab;
 
     public class AvlTree<T> where T : IComparable<T>
     {
         private Node<T> root;
 
         public int Count { get; private set; }
+
+        public Node<T> Root => this.root;
 
         public void Add(T item)
         {
@@ -229,14 +232,14 @@
                 return;
             }
 
-            this.InOrderDfs(this.root, 0, action);
+            this.InOrderDfs(this.root, 1, action);
         }
 
         private void InOrderDfs(Node<T> node, int depth, Action<int, T> action)
         {
             if (node.LeftChild != null)
             {
-                this.InOrderDfs(node.LeftChild, depth+1, action);
+                this.InOrderDfs(node.LeftChild, depth + 1, action);
             }
 
             action(depth, node.Value);
